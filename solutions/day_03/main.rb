@@ -11,5 +11,5 @@ end
 part_one = PartOne.new(input_array)
 puts "Part 1 solution: #{part_one.solve}"
 
-# part_two = PartTwo.new(input_array)
-# puts "Part 2 solution: #{part_two.solve}"
+part_two = PartTwo.new(input_array)
+puts "Part 2 solution: #{part_two.solve}"
